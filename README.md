@@ -1,29 +1,20 @@
-<!-- Header -->
 <div align="center">
-```
-██╗   ██╗████████╗███████╗ █████╗ ██╗   ██╗    ██████╗  ██████╗ ██╗   ██╗███████╗
-██║   ██║╚══██╔══╝██╔════╝██╔══██╗██║   ██║    ██╔══██╗██╔═══██╗╚██╗ ██╔╝██╔════╝
-██║   ██║   ██║   ███████╗███████║██║   ██║    ██║  ██║██║   ██║ ╚████╔╝ █████╗
-██║   ██║   ██║   ╚════██║██╔══██║╚██╗ ██╔╝    ██║  ██║██║   ██║  ╚██╔╝  ██╔══╝
-╚██████╔╝   ██║   ███████║██║  ██║ ╚████╔╝     ██████╔╝╚██████╔╝   ██║   ███████╗
- ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝  ╚═══╝      ╚═════╝  ╚═════╝   ╚═╝   ╚══════╝
-```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Student+%40+Newton+School+of+Technology;Full+Stack+Developer+in+the+making;Building+clean+things+from+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=700&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Utsav+Doye;Student+%40+Newton+School+of+Technology;Full+Stack+Developer+in+the+making;Building+clean+things+from+Bengaluru)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🖥️ `WHO M I`
+## 🖥️ `whoami`
 ```json
 {
-  "name"       : "Utsav Doye",
-  "role"       : "Full Stack Developer",
-  "college"     : "Newton School of Technology",
-  "location"   : "Bengaluru, India",
-  "currently"  : "Learning, building",
-  "open_to"    : ["internships","open source"]
+  "name"      : "Utsav Doye",
+  "role"      : "Full Stack Developer",
+  "college"   : "Newton School of Technology",
+  "location"  : "Bengaluru, India",
+  "currently" : "Learning, building",
+  "open_to"   : ["internships", "open source"]
 }
 ```
 
@@ -42,7 +33,7 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -53,7 +44,7 @@
 
 ---
 
-## Streak
+## 🔁 Streak
 
 <div align="center">
 
@@ -63,13 +54,15 @@
 
 ---
 
-## Contribution Graph
+## 🔥 Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UtsavDoye20122005&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=6366f1&line=a855f7&point=ec4899&area=true&area_color=6366f1)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UtsavDoye20122005&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=6366f1&line=a855f7&point=ec4899&area=true&area_color=6366f1)](https://github.com/UtsavDoye20122005)
+
+![Contribution Calendar](https://ghchart.rshah.org/6366f1/UtsavDoye20122005)
 
 ---
 
-## Trophies
+## 🏆 Trophies
 
 <div align="center">
 
@@ -79,7 +72,7 @@
 
 ---
 
-## Connect
+## 🌐 Connect
 
 <div align="center">
 
