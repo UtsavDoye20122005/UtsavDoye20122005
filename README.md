@@ -60,12 +60,11 @@
 
 
 ---
-
 ## 🏆 Trophies
 
 <div align="center">
 
-![COMING SOON!](https://github-profile-trophy.vercel.app/?username=UtsavDoye20122005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=UtsavDoye20122005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
