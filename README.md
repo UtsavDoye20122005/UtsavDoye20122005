@@ -79,10 +79,6 @@
 
 ---
 
-## ⏱️ Coding Hours — Monthly
-
-> Auto-updated every night via WakaTime
-
 ## 📅 This Week I Worked On
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UtsavDoye20122005&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=6366f1&line=a855f7&point=ec4899&area=true)
