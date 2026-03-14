@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=700&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Utsav+Doye;Student+%40+Newton+School+of+Technology;Full+Stack+Developer+in+the+making;Building+clean+things+from+Bengaluru)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=700&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Utsav+Doye;Student+%40+Newton+School+of+Technology;Full+Stack+Developer+in+the+making;)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🖥️ `whoami`
+## 🖥️ `WHO M I`
 ```json
 {
   "name"      : "Utsav Doye",
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 🔁 Streak
+## Streak
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 🔥 Activity
+## Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UtsavDoye20122005&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=6366f1&line=a855f7&point=ec4899&area=true&area_color=6366f1)](https://github.com/UtsavDoye20122005)
 
@@ -72,7 +72,7 @@
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
