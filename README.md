@@ -3,16 +3,9 @@
 ## 📊 Deep Analytics
 
 <!-- KPI Row -->
-<div align="center">
 
-<!-- START_BADGES -->
-![Commits](https://img.shields.io/badge/Total_Commits-1847-6366f1?style=for-the-badge&logo=git&logoColor=white)
-![PRs](https://img.shields.io/badge/Pull_Requests-312-a855f7?style=for-the-badge&logo=github&logoColor=white)
-![Stars](https://img.shields.io/badge/Stars_Earned-1066-f59e0b?style=for-the-badge&logo=github&logoColor=white)
-![Streak](https://img.shields.io/badge/Current_Streak-47_days-34d399?style=for-the-badge&logo=github&logoColor=white)
-<!-- END_BADGES -->
 
-</div>
+
 
 ---
 
@@ -54,41 +47,3 @@
 
 ---
 
-### ⏱️ WakaTime — Coding Hours
-
-> Tracks **real coding time** across languages, editors, and projects automatically.
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   12 hrs 34 mins  ████████████░░░░  42.1%
-Python        8 hrs 12 mins  ████████░░░░░░░░  27.5%
-Go            4 hrs 01 mins  ████░░░░░░░░░░░░  13.5%
-JavaScript    3 hrs 18 mins  ███░░░░░░░░░░░░░  11.1%
-Shell         1 hr  42 mins  ██░░░░░░░░░░░░░░   5.8%
-```
-<!--END_SECTION:waka-->
-
----
-
-### 📦 Contribution Breakdown
-
-| Type | Count | % of Total |
-|------|-------|-----------|
-| Commits | 1,847 | 58% |
-| Pull Requests | 312 | 19% |
-| Issues Opened | 164 | 10% |
-| Code Reviews | 128 | 8% |
-| Comments | 81 | 5% |
-
----
-
-### 📆 Consistency
-
-| Metric | Value |
-|--------|-------|
-| Longest Streak | 112 days |
-| Current Streak | 47 days |
-| Active Days This Year | 289 / 365 |
-| Avg Commits Per Day | 5.1 |
-| Best Month | December (246 commits) |
-| Busiest Hour | 4:00 PM – 6:00 PM |
