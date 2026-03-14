@@ -15,15 +15,15 @@
 
 ---
 
-## 🖥️ `whoami`
+## 🖥️ `WHO M I`
 ```json
 {
   "name"       : "Utsav Doye",
   "role"       : "Full Stack Developer",
-  "school"     : "Newton School of Technology",
+  "college"     : "Newton School of Technology",
   "location"   : "Bengaluru, India",
-  "currently"  : "Learning, building, shipping",
-  "open_to"    : ["internships", "collabs", "open source"]
+  "currently"  : "Learning, building",
+  "open_to"    : ["internships","open source"]
 }
 ```
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 🔁 Streak
+## Streak
 
 <div align="center">
 
@@ -63,13 +63,13 @@
 
 ---
 
-## 🔥 Contribution Graph
+## Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UtsavDoye20122005&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=6366f1&line=a855f7&point=ec4899&area=true&area_color=6366f1)
 
 ---
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
 
@@ -79,7 +79,7 @@
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
