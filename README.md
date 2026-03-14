@@ -64,10 +64,9 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=UtsavDoye20122005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+> 🚧 &nbsp; Trophies unlock as I build. Check back soon.
 
 </div>
-
 ---
 
 ## Connect
