@@ -14,7 +14,7 @@
   "college"   : "Newton School of Technology",
   "location"  : "Bengaluru, India",
   "currently" : "Learning, building",
-  "open_to"   : ["internships", "open source"]
+  "open_to"   : ["internships","open source"]
 }
 ```
 
@@ -58,7 +58,6 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UtsavDoye20122005&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=6366f1&line=a855f7&point=ec4899&area=true&area_color=6366f1)](https://github.com/UtsavDoye20122005)
 
-![Contribution Calendar](https://ghchart.rshah.org/6366f1/UtsavDoye20122005)
 
 ---
 
@@ -66,7 +65,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=UtsavDoye20122005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+![COMING SOON!](https://github-profile-trophy.vercel.app/?username=UtsavDoye20122005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
