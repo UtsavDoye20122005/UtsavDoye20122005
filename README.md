@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-1e3a8a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:utsavdoye07@gmail.com"><img src="https://img.shields.io/badge/Email-1e3a8a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/utsav-doye"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Bengaluru,%20India-0f172a?style=flat-square&logo=googlemaps&logoColor=white" alt="Bengaluru, India" />
 </p>
 
