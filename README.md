@@ -1,88 +1,160 @@
-<div align="center">
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=190&section=header&text=Utsav%20Doye&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=I%20build%20web%20apps%20and%20AI%20tools%20that%20people%20actually%20use&descSize=16&descAlignY=58" alt="Utsav Doye" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=700&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Utsav+Doye;Student+%40+Newton+School+of+Technology;Full+Stack+Developer+in+the+making;)](https://git.io/typing-svg)
+<p align="center">
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-me-1e3a8a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Bengaluru-0f172a?style=flat-square" alt="Bengaluru" />
+  <img src="https://img.shields.io/badge/Open%20to-freelance%20work-16a34a?style=flat-square" alt="Open to freelance work" />
+</p>
 
-</div>
+<br />
 
----
+### 👋 About me
 
-## 🖥️ `WHO M I`
-```json
-{
-  "name"      : "Utsav Doye",
-  "role"      : "Full Stack Developer",
-  "college"   : "Newton School of Technology",
-  "location"  : "Bengaluru, India",
-  "currently" : "Learning, building",
-  "open_to"   : ["internships","open source"]
-}
-```
+I'm a computer science student (AI and ML) at **Newton School of Technology, Bengaluru**.
+I take a project from the first conversation all the way to a live link: understanding the problem, designing it, building it, testing it properly and putting it online.
 
----
+Most of what I build solves a real problem for real people at my college or for a client, not a tutorial.
 
-## Tech Stack
+<br />
 
-<div align="center">
+### 🚀 Featured work
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+#### 🎯 Hazri
+**Face recognition attendance**
 
----
+Marks attendance for a class of up to 120 students from one classroom photo, right in the browser.
 
-## GitHub Stats
+- Tested on **246 faces in one photo**, with 54 strangers. Every face found, no stranger named.
+- Two AI models the admin can switch between, plus a lab to test accuracy on new photos.
+- Student consent tracking in line with India's DPDP Act.
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=UtsavDoye20122005&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6366f1&icon_color=a855f7&text_color=94a3b8" />
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavDoye20122005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6366f1&text_color=94a3b8&langs_count=6" />
+<sub>🔒 Private repo · demo on request</sub>
 
-</div>
+</td>
+<td width="50%" valign="top">
 
----
+#### 🎙️ JiffyThat
+**Speak a form into existence**
 
-## Streak
+Say or type what you need. It builds a shareable form, collects answers and charts the results.
 
-<div align="center">
+- Live, and used by a faculty member and students.
+- Security and spam limits enforced inside the database, so they can't be bypassed.
+- Response analysis on par with Google Forms, plus CSV and Sheets export.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UtsavDoye20122005&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=6366f1&ring=a855f7&fire=ec4899&currStreakNum=e2e2e2&sideNums=e2e2e2&currStreakLabel=6366f1&sideLabels=475569&dates=334155)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-</div>
+<sub>🔗 [Live app](https://formagent-web.vercel.app) · [Code](https://github.com/UtsavDoye20122005/formagent)</sub>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Activity
+#### 🏢 Hostel Ops Dashboard
+**Client project**
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UtsavDoye20122005&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=6366f1&line=a855f7&point=ec4899&area=true&area_color=6366f1)](https://github.com/UtsavDoye20122005)
+Audited a college hostel team's checklists and tickets, then designed a dashboard around what the data really showed.
 
+- Found weekly tasks and future dates counted as daily misses. Real compliance: **95.8% and 100%**, not the reported 88% and 84%.
+- Surfaced 19 vendor commitments that were never scheduled.
+- Separate views for staff, manager and head, with email alerts.
 
----
-## 🏆 Trophies
+![Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-<div align="center">
+<sub>🔒 Client work · details on request</sub>
 
-> 🚧 &nbsp; Trophies unlock as I build. Check back soon.
+</td>
+<td width="50%" valign="top">
 
-</div>
+#### 🪑 Exam Seating + Room Board
+**Built for my college**
 
+Replaced manual exam seating with a one-click shuffle that follows the college's bench rules and exports a PDF.
 
----
-## Connect
+- Linked to a college portal with separate faculty, student and admin logins.
+- Real student data stays behind a passcode.
 
-<div align="center">
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-doye/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UtsavDoye20122005)
+<sub>🔗 [Live app](https://nst-exam-seating.vercel.app) · [Portal code](https://github.com/UtsavDoye20122005/nst-room-board)</sub>
 
-</div>
+</td>
+</tr>
+</table>
 
----
+<br />
 
-<div align="center">
+### 🛠️ What I can build for you
 
-![Views](https://komarev.com/ghpvc/?username=UtsavDoye20122005&color=6366f1&style=flat-square&label=PROFILE+VIEWS)
+| | |
+|---|---|
+| 🌐 **Web apps and dashboards** | Logins, roles, and data that stays private to each user |
+| 🤖 **AI features** | Voice input, smart form and content generation, face recognition |
+| 🏪 **Business websites** | Fast on a phone, built to turn visitors into calls and WhatsApp messages |
+| ⚙️ **Automation** | Replacing manual spreadsheet work with something that checks itself |
 
-</div>
+<br />
+
+### 🧰 Tools I use
+
+**Languages**&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend and data**&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**AI and data**&nbsp;
+![ONNX](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Testing and shipping**&nbsp;
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+<br />
+
+### 📫 Let's work together
+
+Have something you want built? Email me with what you need and I'll reply within a day.
+
+<p align="center">
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Start%20a%20project-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project" /></a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" alt="" />
+</p>
